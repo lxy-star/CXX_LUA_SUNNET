@@ -1,0 +1,3 @@
+/home/lxy/VSCodeWorkSpace/sunnet/build/CMakeFiles/sunnet.dir
+/home/lxy/VSCodeWorkSpace/sunnet/build/CMakeFiles/edit_cache.dir
+/home/lxy/VSCodeWorkSpace/sunnet/build/CMakeFiles/rebuild_cache.dir
